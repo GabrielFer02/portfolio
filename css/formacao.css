@@ -64,7 +64,7 @@
   display: block;
   width: 130px;
   height: 100px;
-  background-image: url("./img/detalhe.svg");
+  background-image: url("../img/detalhe.svg");
   background-repeat: no-repeat;
   background-position: center;
   position: absolute;
@@ -96,13 +96,13 @@
 }
 
 .formacao-curso h3::before {
-  background-image: url("./img/cursos.svg");
+  background-image: url("../img/cursos.svg");
   background-repeat: no-repeat;
   background-position: center;
 }
 
 .idiomas h3::before {
-  background-image: url("./img/idiomas.svg");
+  background-image: url("../img/idiomas.svg");
   background-repeat: no-repeat;
   background-position: center;
 }
@@ -145,6 +145,6 @@
   }
 
   .formacao-curso h3::before,.idiomas h3::before {
-    background-image: url("./img/detalhe.svg");
+    background-image: url("../img/detalhe.svg");
   }
 }
