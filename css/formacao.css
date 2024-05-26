@@ -96,13 +96,13 @@
 }
 
 .formacao-curso h3::before {
-  background-image: url("/img/cursos.svg");
+  background-image: url("./img/cursos.svg");
   background-repeat: no-repeat;
   background-position: center;
 }
 
 .idiomas h3::before {
-  background-image: url("/img/idiomas.svg");
+  background-image: url("./img/idiomas.svg");
   background-repeat: no-repeat;
   background-position: center;
 }
